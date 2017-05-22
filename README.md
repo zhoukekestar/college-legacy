@@ -1,18 +1,19 @@
 # college-legacy
 A legacy list in my college life.
 
-# chat
+### chat
+A simple QQ-like Chat.
 A Desktop Chat based on Socket written with Java & Java Swing.
 
-# farm
+### farm
 A real world project for farm written with ASP.
 
-# gobang
+### gobang
 A Desktop gobang game based on socket written with C#.
 
 ![demo](./gobang/demo.png)
 
-# magic-cube
+### magic-cube
 A interactive desktop magic cube based on OpenGL written with C++.
 
 ![demo](./magic-cube/cube-demo.min.gif)
