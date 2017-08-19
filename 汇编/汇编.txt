@@ -1,0 +1,35 @@
+FLAG:
+ OF Overflow FLAG
+ SF Sign FLAG
+ ZF Zero FLAG
+ PF Parity FLAG
+ CF Carry FALG
+
+CMP:
+ A Above
+ G Greater
+ B Below
+ L Less
+ E Equal
+ N Not
+ Z Zero
+
+SEGEMENT
+ CS Code SEGEMENT
+ DS Data SEGEMENT
+ ES Extend SEGEMENT
+ SS Stack SEGEMENT
+
+REGISTER
+AX: AH-AL Accumulator
+BX: BH-BL Base Address
+CX: CH-CL Count 
+DX: DH-DL Data
+
+POINTER
+BP: Base Pointer
+SP: Stack Pointer
+
+Instruction
+SI: Source Instruction
+DI: Destination Instruction
