@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\WorkOver\WorkOver\bin\Debug\WorkOver.exe.config
+C:\Users\Admin\Desktop\WorkOver\WorkOver\bin\Debug\WorkOver.exe
+C:\Users\Admin\Desktop\WorkOver\WorkOver\bin\Debug\WorkOver.pdb
+C:\Users\Admin\Desktop\WorkOver\WorkOver\obj\Debug\WorkOver.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WorkOver\WorkOver\obj\Debug\WorkOver.Form1.resources
+C:\Users\Admin\Desktop\WorkOver\WorkOver\obj\Debug\WorkOver.Properties.Resources.resources
+C:\Users\Admin\Desktop\WorkOver\WorkOver\obj\Debug\WorkOver.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WorkOver\WorkOver\obj\Debug\WorkOver.exe
+C:\Users\Admin\Desktop\WorkOver\WorkOver\obj\Debug\WorkOver.pdb
