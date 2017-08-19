@@ -1,0 +1,15 @@
+
+#指定数据库连接字符串
+#string connStr = "Data Source=ZKK-COMPUTER;Initial Catalog=db_test;Integrated Security=True";
+#string connStr = "Data Source =ZKK-COMPUTER;user id=sa;password=sa123;Initial Catalog=db_test;Integrated Security=False";
+
+SQL Connect String:
+Data Source =ZKK-COMPUTER;user id=sa;password=sa123;Initial Catalog=FarmManagement;Integrated Security=False
+
+
+
+
+
+
+
+

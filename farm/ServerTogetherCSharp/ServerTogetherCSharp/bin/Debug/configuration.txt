@@ -1,0 +1,31 @@
+#服务器的端口号
+Server Port:
+8080
+
+#指定服务器的ip地址
+Local Address IP:
+10.64.130.58
+
+#指定数据库连接字符串
+#string connStr = "Data Source=ZKK-COMPUTER;Initial Catalog=db_test;Integrated Security=True";
+#string connStr = "Data Source =ZKK-COMPUTER;user id=sa;password=sa123;Initial Catalog=db_test;Integrated Security=False";
+
+SQL Connect String:
+Data Source =ZKK-COMPUTER;user id=sa;password=sa123;Initial Catalog=FarmManagement;Integrated Security=False
+
+#访问数据的时间间隔 单位为毫秒
+SQL Fresh Time:
+5000
+
+
+#刷新所有养殖场信息的时间 单位为分
+Farm Fresh Time:
+5
+
+
+
+
+
+
+
+

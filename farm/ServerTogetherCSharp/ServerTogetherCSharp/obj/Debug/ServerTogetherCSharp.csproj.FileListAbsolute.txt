@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\bin\Debug\ServerTogetherCSharp.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\bin\Debug\ServerTogetherCSharp.exe
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\bin\Debug\ServerTogetherCSharp.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\obj\Debug\ServerTogetherCSharp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\obj\Debug\ServerTogetherCSharp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\obj\Debug\ServerTogetherCSharp.exe
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\obj\Debug\ServerTogetherCSharp.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\obj\Debug\ServerTogetherCSharp.Main.resources
+c:\users\administrator\documents\visual studio 2012\Projects\ServerTogetherCSharp\ServerTogetherCSharp\obj\Debug\ServerTogetherCSharp.csprojResolveAssemblyReference.cache

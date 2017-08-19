@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\bin\Debug\FarmManagement.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\obj\Debug\FarmManagement.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\obj\Debug\FarmManagement.exe
+c:\users\administrator\documents\visual studio 2012\Projects\FarmManagement\FarmManagement\obj\Debug\FarmManagement.pdb
