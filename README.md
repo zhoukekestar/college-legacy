@@ -37,3 +37,11 @@ A interactive desktop magic cube based on OpenGL written with C++.
 ### remote-control
 
 一个基于 Linux 单片机的 Led 控制程序，使用 C 编写。
+
+
+### simple-enctype
+
+一个用 C++ 写的，简单加密文件。当初为了不让别人看某些文件而写的。
+
+简单粗暴地将文件中的任意位置的二进制替换掉，并记录在一个 txt 文件中，需要恢复的时候，
+用 txt 文件中的修改记录就能正常恢复文件。
