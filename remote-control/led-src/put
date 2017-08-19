@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+ 
+ftp -n << !
+open 192.168.2.109
+user plg plg
+bin
+quote pasv
+passive 
+
+
+put $1
+
+
+
+
+
+
+
+
+

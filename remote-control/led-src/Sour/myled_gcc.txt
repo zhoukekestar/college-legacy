@@ -1,0 +1,1 @@
+arm-linux-gcc -o myled myled.c -lpthread
